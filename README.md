@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SauravThakur7
-- 👀 I’m interested in football and calesthenics 
+- 👀 I’m interested in creating front-end projects and impressive UI/UX
 - 🌱 I’m currently learning Full stack web development 
 - 💞️ I’m looking to collaborate on frontend projects 
 - 📫 How to reach me: My LinkedIn profile is https://www.linkedin.com/in/saurav-thakur-05ba21230/   
