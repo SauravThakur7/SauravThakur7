@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>✍🏻 I've keen interest in building front-end projects and impressive UI/UX<br>🌱 I’m currently learning Full stack web development<br>💞️ I’m looking to collaborate on frontend projects<br>📫 How to reach me: My LinkedIn profile is https://www.linkedin.com/in/saurav-thakur-05ba21230/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I laugh at random things, so don't take it seriously
+<br>🎓Pursuing Master's in CS | Frontend Developer  <br>🌱 I’m currently learning Full stack web development<br> I’m looking to collaborate on frontend projects<br>📫Reach me: LinkedIn:  https://www.linkedin.com/in/sauravthakur07/<br> Mail: thakursaurav30104@gmail.com <br>
 
 
 ## 🌐 Socials:
